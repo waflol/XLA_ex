@@ -38,9 +38,4 @@ show_image(mirror_pad,'mirror pad')
 
 
 
-"""
-The advantages:
 
-The disadvantages:
-
-"""

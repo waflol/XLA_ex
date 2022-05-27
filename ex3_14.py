@@ -63,6 +63,9 @@ for sigma in sigmas:
     plt.axis('off')
     plot_id +=1
     
+    
+plt.show()
+    
 
     
 
