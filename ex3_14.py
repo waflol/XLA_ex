@@ -9,7 +9,7 @@ import random
 def addition_noise(img):
     rw,cl,dept = img.shape
     noise_img = img.copy()
-    num_pixls = random.randint(300,20000)
+    num_pixls = random.randint(300,15000)
     for i in range(num_pixls):
         y_crd = random.randint(0,rw-1)
         x_crd = random.randint(0,cl-1)
